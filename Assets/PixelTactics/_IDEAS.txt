@@ -1,0 +1,13 @@
+﻿ 
+ * Graveyard Mammoth, 6/6, Gravedigger 3 (must have and remove 3 corpses)
+ * Females can't trigger -- Misogynist
+ * Spell Power
+ * Intercept
+ * Overkill
+ * Ranged Attack
+ * Trap counters for orders/traps
+ * Triggery things
+ * Upgrade
+ * Gravedigger
+ * Vanilla
+ Fusion

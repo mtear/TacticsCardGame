@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{0153515E-38B8-4EC0-B4FA-20C78E33463E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>PixelTactics</RootNamespace>
+    <AssemblyName>PixelTactics</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ability.cs" />
+    <Compile Include="GameBoard.cs" />
+    <Compile Include="Character.cs" />
+    <Compile Include="Command.cs" />
+    <Compile Include="Hand.cs" />
+    <Compile Include="Deck.cs" />
+    <Compile Include="Utility.cs" />
+    <Compile Include="Passive.cs" />
+    <Compile Include="PassiveAbilities.cs" />
+    <Compile Include="Active.cs" />
+    <Compile Include="ActiveAbilities.cs" />
+    <Compile Include="Trigger.cs" />
+    <Compile Include="TriggerAbilities.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="TableTop.cs" />
+    <Compile Include="OnGoing.cs" />
+    <Compile Include="OnGoingAbilities.cs" />
+    <Compile Include="Characters.cs" />
+    <Compile Include="Damage.cs" />
+    <Compile Include="CommandInterface.cs" />
+    <Compile Include="Target.cs" />
+    <Compile Include="StringTable.cs" />
+    <Compile Include="Enhancement.cs" />
+    <Compile Include="AnimationInterface.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <None Include="_TODO.txt" />
+    <None Include="_IDEAS.txt" />
+  </ItemGroup>
+</Project>

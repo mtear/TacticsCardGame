@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{129336E1-6FB4-E13A-E872-EBA8BB9053E8}") = "TacticsCardGame", "Assembly-CSharp.csproj", "{4CB091A3-1912-E122-9E7B-1A46F26168AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB091A3-1912-E122-9E7B-1A46F26168AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB091A3-1912-E122-9E7B-1A46F26168AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB091A3-1912-E122-9E7B-1A46F26168AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB091A3-1912-E122-9E7B-1A46F26168AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

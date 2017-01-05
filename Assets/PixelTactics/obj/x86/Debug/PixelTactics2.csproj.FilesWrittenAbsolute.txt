@@ -1,0 +1,5 @@
+/Volumes/SD/PixelTactics2/PixelTactics/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/SD/PixelTactics2/PixelTactics/bin/Debug/PixelTactics.exe.mdb
+/Volumes/SD/PixelTactics2/PixelTactics/bin/Debug/PixelTactics.exe
+/Volumes/SD/PixelTactics2/PixelTactics/obj/x86/Debug/PixelTactics.exe
+/Volumes/SD/PixelTactics2/PixelTactics/obj/x86/Debug/PixelTactics.exe.mdb

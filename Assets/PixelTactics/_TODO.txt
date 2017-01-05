@@ -1,0 +1,6 @@
+﻿TODO:
+
+Comment things
+Split sections of string loading into functions
+Rename test passives
+Remove names from all abilities

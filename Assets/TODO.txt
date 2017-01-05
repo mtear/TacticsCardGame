@@ -1,0 +1,58 @@
+TODO:
+Opponent card drag
+Animation for ongoing discarding (hour glass shattering)
+Redo attack animation positioning
+sad animation and happy animation for portraits win loss
+Info when moving card
+Card draw animation
+Card backgrounds
+card icons for each row
+MASSIVE INTERCEPT BUG WHERE INTERCEPT CAN HIT TWO PEOPLE IN FRONT ROW CAUSE OF HOW THE MEET HALFWAY WORKS
+Infopanel after move
+Upgrade + targets
+Thud for summoning
+Gravedigger and upgrade animations (Upgrade complete?)
+Take increasing damage instead of losing from draw out
+When a card leaves hand the next card cycles into it
+Enemy draw animation
+Discard card animation
+Too full hand animation
+Active or trap extended animations
+Trap exclamation point with mgs sound
+golden sword animation
+Stop dragging on info panel up
+Enhancements
+Can't drag through Shade sections?
+Drop animation after moving
+z order text on top of units
+Make the commando a trap
+Last card in hand issues?
+Playing Paper Boy the card resets issue
+Fix moving so the infopanel won't keep coming up
+Numbers backwards on enemy hourglasses
+targeting lightup and effect tooltip
+Heal sound
+Ranged attack indicator
+Kill self on turn issues
+Immune icon
+Traps not disappearing when they should be gone, make destroy method??? Make backup plan for ongoings and traps?
+Rooted icon
+Change Bubba
+check immunities aren't going out of control crazy with ferret
+Shoto fighter going off over and over cause of traps / (Last effect person going off multiple times?)
+Go for lethal
+
+BUGS:
+Movement bug when you put it in row 0 or 1?! Have to recruit first?!?!
+intercept with 3 interceptors on one side and one on the other
+attack didn't continue!!!
+Z stacking bug shadows on top of heads
+cards readjust after hold click for info
+playing card drag over unit to move it?
+Attack isn't always on top of other units when sliding forward (ranged attack)
+Overkill IN FRONT ROW WITHOUT TARGET BEHIND, SHOULD HIT PLAYER?
+With 2 intercepts the halfway doesn't always target the right target
+Bug when draw out
+Lost but attack still happened
+Big attack bug was weird people didn't die and damage was odd
+ENEMY ONGOING AND RECRUIT OVERLAPPED THE ANIMATION
